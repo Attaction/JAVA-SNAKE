@@ -1,0 +1,6 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Arial" 3 times.(®ÛŸ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò‘äûÿÿÿÿ
+A
+java:S1602&",Remove useless curly braces around statement(ò…ÏR
